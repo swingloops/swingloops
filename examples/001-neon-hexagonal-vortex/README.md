@@ -1,6 +1,6 @@
 # [Neon Hexagon Vortex](https://kodejava.org/how-do-i-create-a-neon-hexagon-vortex-animation-in-java-swing/)
 
-**[SwingLoops — Episode 001](https://youtube.com/v9MrHn481es)**
+**[SwingLoops — Episode 001](https://youtube.com/shorts/v9MrHn481es)**
 
 A twisting tunnel of glowing rainbow hexagons, built with Java Swing and Java 2D. Shapes expand from a dark center, rotate through the tunnel, and fade away before returning to the start.
 
