@@ -2,7 +2,7 @@
 
 Creative Java Swing animations from the SwingLoops YouTube Shorts series. Explore colorful visual effects, learn the math behind the motion, and run the examples yourself.
 
-Each episode pairs a short animation with runnable Java source code and a tutorial on [Kode Java](https://kodejava.org/).
+Each episode pairs a short animation with runnable Java source code and a tutorial on [Kode Java](https://kodejava.org/category/swing-loops/).
 
 ## What you'll find
 
@@ -65,4 +65,4 @@ The examples use Swing timers to request repaints and create their interfaces on
 
 ## Learn more
 
-Visit [kodejava.org](https://kodejava.org/) for Java tutorials and explanations of the techniques used in SwingLoops.
+Visit [kodejava.org](https://kodejava.org/category/swing-loops/) for Java tutorials and explanations of the techniques used in SwingLoops.

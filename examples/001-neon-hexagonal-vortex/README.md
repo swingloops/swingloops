@@ -11,8 +11,6 @@ The animation follows an eight-second cycle and uses a portrait drawing area of 
 - A Java Development Kit (JDK) with `javac` and `java` available in your terminal.
 - A desktop environment that supports Swing windows.
 
-Compilation was verified with JDK 25. Visual playback has not yet been verified.
-
 ## Run the animation
 
 Open a terminal in this directory, then run:
@@ -22,7 +20,7 @@ javac NeonVortex.java
 java NeonVortex
 ```
 
-Close the window to exit. Maven and Gradle are not required.
+Close the window to exit.
 
 If the window is too tall for your screen, change the preferred dimensions in the constructor from `540, 960` to `405, 720`. The drawing scales proportionally when the window is resized.
 
