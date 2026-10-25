@@ -8,7 +8,7 @@ The animation follows an eight-second cycle and uses a portrait drawing area of 
 
 ## Requirements
 
-- A Java Development Kit (JDK) with `javac` and `java` available in your terminal.
+- A Java Development Kit (JDK) version 25, with `javac` and `java` available in your terminal.
 - A desktop environment that supports Swing windows.
 
 ## Run the animation
@@ -16,6 +16,7 @@ The animation follows an eight-second cycle and uses a portrait drawing area of 
 Open a terminal in this directory, then run:
 
 ```sh
+cd examples/001-neon-hexagonal-vortex
 javac NeonVortex.java
 java NeonVortex
 ```
