@@ -1,6 +1,6 @@
 # [Pendulum Wave](https://kodejava.org/how-do-i-create-a-pendulum-wave-animation-in-java-swing/)
 
-**SwingLoops — Episode 002**
+**[SwingLoops — Episode 002](https://www.youtube.com/shorts/fkS4Kih5-wg)**
 
 Fifteen glowing pendulums swing at different frequencies, forming changing wave patterns before returning to alignment every 24 seconds.
 
