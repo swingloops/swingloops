@@ -22,7 +22,7 @@ Check each example's README for its tested JDK version. The first example was co
 
 | Episode | Animation                                                         | What you'll learn                                                                                                                       |
 |---------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 001     | [Neon Hexagon Vortex](examples/001-neon-hexagon-vortex/README.md) | Drawing polygons with trigonometry, rotating shapes, cycling colors, and layering transparent strokes for a neon glow.                  |
+| 001     | [Neon Hexagon Vortex](examples/001-neon-hexagonal-vortex/README.md) | Drawing polygons with trigonometry, rotating shapes, cycling colors, and layering transparent strokes for a neon glow.                  |
 | 002     | [Pendulum Wave](examples/002-pendulum-wave/README.md)             | Creating synchronized cycles with different oscillation frequencies, positioning pendulums with trigonometry, and drawing glowing bobs. |
 | 003     | [Spirograph Bloom](examples/003-spirograph-bloom/README.md)       | Drawing hypotrochoid curves, calculating closed patterns, and revealing rainbow strokes with a neon glow.                               |
 | 004     | [Particle Text Morph](examples/004-particle-text-morph/README.md)       | Sampling text pixels, easing particles between shapes, and drawing a soft glow.|
