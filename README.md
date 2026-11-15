@@ -27,7 +27,7 @@ Check each example's README for its tested JDK version. The first example was co
 | 003     | [Spirograph Bloom](examples/003-spirograph-bloom/README.md)         | Drawing hypotrochoid curves, calculating closed patterns, and revealing rainbow strokes with a neon glow.                               |
 | 004     | [Particle Text Morph](examples/004-particle-text-morph/README.md)   | Sampling text pixels, easing particles between shapes, and drawing a soft glow.                                                         |
 | 005     | [Ripple Interference](examples/005-ripple-interference/README.md)   | Combining circular waves, caching spatial calculations, and coloring a pixel buffer.                                                    |
- 
+| 006 | [Domino Spiral](examples/006-domino-spiral/README.md) | Spacing tiles along a spiral, staggering their start times, and easing each fall. |
 
 Tutorial and video links will be added as episodes are published.
 
