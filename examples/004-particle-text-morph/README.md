@@ -20,12 +20,12 @@ No build tools, external libraries, or image assets are required. Close the wind
 
 The program draws each word into a transparent image, samples pixels with high opacity, and assigns them to particles as destinations. Each particle keeps the same index across the cloud and both words. A smoothstep function eases motion between destinations, and a temporary offset bends the paths.
 
-| Time | Action |
-| --- | --- |
-| 0–3 s | Gather into JAVA. |
-| 3–5 s | Hold JAVA. |
-| 5–8 s | Morph into SwingLoops. |
-| 8–9 s | Hold SwingLoops. |
+| Time   | Action                        |
+|--------|-------------------------------|
+| 0–3 s  | Gather into JAVA.             |
+| 3–5 s  | Hold JAVA.                    |
+| 5–8 s  | Morph into SwingLoops.        |
+| 8–9 s  | Hold SwingLoops.              |
 | 9–12 s | Return to the original cloud. |
 
 ## Customize it

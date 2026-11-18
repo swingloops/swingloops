@@ -24,11 +24,11 @@ The image is rendered at 180 × 320 and scaled to fit the window with bilinear i
 
 ## Customize it
 
-| Setting | Effect |
-| --- | --- |
-| `AX`, `BX`, `SY` | Move the two sources and change the interference pattern. |
-| `21` in the phase calculations | Changes the wavelength in image pixels. Change both occurrences together. |
-| `110` in the distance weights | Controls how quickly the waves weaken with distance. |
+| Setting                        | Effect                                                                            |
+|--------------------------------|-----------------------------------------------------------------------------------|
+| `AX`, `BX`, `SY`               | Move the two sources and change the interference pattern.                         |
+| `21` in the phase calculations | Changes the wavelength in image pixels. Change both occurrences together.         |
+| `110` in the distance weights  | Controls how quickly the waves weaken with distance.                              |
 | `CYCLE` and the multiplier `5` | Control the oscillation period, which is `CYCLE / 5` with the default multiplier. |
 
 [Java source](RippleInterference.java) · [Kode Java tutorials](https://kodejava.org/)

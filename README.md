@@ -28,6 +28,7 @@ Check each example's README for its tested JDK version. The first example was co
 | 004     | [Particle Text Morph](examples/004-particle-text-morph/README.md)   | Sampling text pixels, easing particles between shapes, and drawing a soft glow.                                                         |
 | 005     | [Ripple Interference](examples/005-ripple-interference/README.md)   | Combining circular waves, caching spatial calculations, and coloring a pixel buffer.                                                    |
 | 006 | [Domino Spiral](examples/006-domino-spiral/README.md) | Spacing tiles along a spiral, staggering their start times, and easing each fall. |
+| 007 | [Fractal Tree Bloom](examples/007-fractal-tree-bloom/README.md) | Growing a recursive tree, easing branch growth, and adding a gentle sway. |
 
 Tutorial and video links will be added as episodes are published.
 
